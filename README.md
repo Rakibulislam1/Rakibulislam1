@@ -20,3 +20,7 @@
 ### Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,mongodb,=light)](https://skillicons.dev)
+
+### Connect with me
+
+![Rakibul Islam!](https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Animated-gif.gif "Rakibul Islam")
