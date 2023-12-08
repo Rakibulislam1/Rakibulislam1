@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Animated-gif.gif "San Juan Mountains")
+![Rakibul Islam!](https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Animated-gif.gif "Rakibul Islam")
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
