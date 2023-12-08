@@ -16,3 +16,5 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibulislam1&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibulislam1&theme=buefy-dark" alt="GitHub Streak" /></a>
