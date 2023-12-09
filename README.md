@@ -28,11 +28,11 @@ A full-time web Application developer based in Bangladesh.
 
 ### Rakibul Islam's Github Stats
 
-<p align="center">
+<p align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibulislam1&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-
+proje
 
 
 
