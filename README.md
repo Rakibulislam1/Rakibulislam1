@@ -23,7 +23,7 @@ A full-time web Application developer based in Bangladesh.
 
 ### Technologies that I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,mongodb,=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,firebase,mongodb,figma,git,=light)]()
 
 
 ### Rakibul Islam's Github Stats
