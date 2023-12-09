@@ -1,5 +1,5 @@
 
-![Rakibul Islam!](https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Animated-gif.gif "Rakibul Islam")
+![Rakibul Islam!](https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Animated-banner.gif "Rakibul Islam")
 
 ## Hi there, I'm Rakibul Islam! 👋
 A full-time web Application developer based in Bangladesh.
