@@ -22,13 +22,18 @@ A full-time web Application developer based in Bangladesh.
 📫 How to reach me: rirakib03@gmail.com
 
 ### Technologies that I know
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rakibulislam1/Rakibulislam1/main/assets/Reactjs.png"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/ad95fb81-52e8-4a36-ae5e-3fd661abc50b"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a0e15205-153b-46d2-b96d-23618ef278ab"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/b885f4c0-77f8-4f3b-a2d6-97e288899bda"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/dcd0906d-8c90-422e-b686-704bdf433ea0"width="20%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a48581d1-ff89-42bf-95df-a544e2611a26"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/8ef1aff8-1038-4a78-a99c-bd585a35be0d"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/041103be-71bc-48c5-9343-c9ac75a6c946"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/3bf1156b-789c-4fc9-bcce-811ad47d345b"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/6e60a319-d671-4ded-8240-f3c26494d9b7"width="20%"/>
-</div>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</p>
 
 ### Rakibul Islam's Github Stats
 
@@ -36,7 +41,10 @@ A full-time web Application developer based in Bangladesh.
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibulislam1&theme=ambient-gradient&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-## 💥 Projects
+##
+
+
+<!-- ## 💥 Projects
 
 ### Project Name: Daily News
 #### Technology used: 
@@ -138,4 +146,4 @@ A full-time web Application developer based in Bangladesh.
 
 ➤ Authenticate by firsebase
 
-
+ -->
